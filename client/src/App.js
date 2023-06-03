@@ -17,7 +17,11 @@ function App() {
       </div>
       <div class="texts">
         <h2>No one has done AR or VR well. Can Apple?</h2>
-        <p>On Monday, Apple is more than likely going to reveal its long-awaited augmented or mixed reality Reality Pro headset during the keynote of its annual WWDC developer conference in California.</p>
+        <p class="info">
+          <a class = "author">sanyog Mahajan</a>
+          <time>2023-06-04 1:01</time>
+        </p>
+        <p class="summary">On Monday, Apple is more than likely going to reveal its long-awaited augmented or mixed reality Reality Pro headset during the keynote of its annual WWDC developer conference in California.</p>
       </div>
     </div>
     <div class="post">
@@ -26,7 +30,11 @@ function App() {
       </div>
       <div class="texts">
         <h2>No one has done AR or VR well. Can Apple?</h2>
-        <p>On Monday, Apple is more than likely going to reveal its long-awaited augmented or mixed reality Reality Pro headset during the keynote of its annual WWDC developer conference in California.</p>
+        <p class="info">
+          <a class = "author">sanyog Mahajan</a>
+          <time>2023-06-04 1:01</time>
+        </p>
+        <p class="summary">On Monday, Apple is more than likely going to reveal its long-awaited augmented or mixed reality Reality Pro headset during the keynote of its annual WWDC developer conference in California.</p>
       </div>
     </div>
     <div class="post">
@@ -35,7 +43,11 @@ function App() {
       </div>
       <div class="texts">
         <h2>No one has done AR or VR well. Can Apple?</h2>
-        <p>On Monday, Apple is more than likely going to reveal its long-awaited augmented or mixed reality Reality Pro headset during the keynote of its annual WWDC developer conference in California.</p>
+        <p class="info">
+          <a class = "author">sanyog Mahajan</a>
+          <time>2023-06-04 1:01</time>
+        </p>
+        <p class="summary">On Monday, Apple is more than likely going to reveal its long-awaited augmented or mixed reality Reality Pro headset during the keynote of its annual WWDC developer conference in California.</p>
       </div>
     </div>
    </main>
